@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<setting>
+		<checkK>false</checkK>
+		<checkT>false</checkT>
+		<checkV>false</checkV>
+		<check>false</check>
+		<priceHard>0</priceHard>
+		<priceNormal>0</priceNormal>
+		<priceLight>0</priceLight>
+		<priceForTea>0</priceForTea>
+		<priceOfMinUn>0</priceOfMinUn>
+		<priceOfMinTo>0</priceOfMinTo>
+		<priceOfVipUn>0</priceOfVipUn>
+		<priceOfVipTo>0</priceOfVipTo>
+		<peoplsVIPUn>0</peoplsVIPUn>
+		<peoplsVIPTo>0</peoplsVIPTo>
+		<priceOfNonTimeWik>0</priceOfNonTimeWik>
+		<priceOfNonTimeNW>0</priceOfNonTimeNW>
+		<priceStopCheck>0</priceStopCheck>
+	</setting>
+</settings>
+
+
+	private IntegerProperty ;
